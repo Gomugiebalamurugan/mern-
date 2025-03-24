@@ -1,0 +1,1 @@
+This a new file content used to read it from the index.js file using the file system
