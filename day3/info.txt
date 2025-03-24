@@ -1,1 +1,6 @@
-
+Day 3: File Operations, Web Server, and Resume Project  
+ 
+Today, focused on:  
+- File Operations in Node.js: Reading, writing, updating, and deleting files.  
+- Building a Server-Based Website: Serving HTML, CSS, and JS files using Node.js.  
+- Task: Creating a resume page using HTML and CSS.  
