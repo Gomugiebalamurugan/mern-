@@ -1,1 +1,7 @@
+# Day 5: MongoDB Basics & User Authentication  
 
+Today, worked on:  
+- Understanding MongoDB basics .  
+- Setting up MongoDB with Node.js using Mongoose. 
+- Creating a Registration and Login Form using HTML, CSS, and Express.js.
+-  Storing and retrieving user credentials securely.
