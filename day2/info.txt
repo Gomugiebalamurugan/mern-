@@ -1,1 +1,7 @@
+# Day 2: Learning Node.js - NPM & Basic Server Setup
+
+Today, we explored the following topics:  
+- NPM (Node Package Manager): Understanding how to install and manage packages in Node.js.  
+- Installing Packages: Using `npm install` to add dependencies.  
+- Creating a Basic Server: Setting up a simple HTTP server with Node.js.
 
