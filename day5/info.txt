@@ -1,1 +1,7 @@
+# Day 5: Kilometer to Mile & Mile to Kilometer Converter  
 
+ 
+Today, I worked on:  
+- Building a simple converter using HTML & CSS
+- Creating an Express.js backend to handle unit conversion.  
+- Fetching data from the server using JavaScript .
