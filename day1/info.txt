@@ -1,2 +1,8 @@
-day 1 of mern stack taring
+day 1 of mern stack training
+java script bacis ...
+varibles..
+functions..
+sting operation..
+array function..
+export import..
   
