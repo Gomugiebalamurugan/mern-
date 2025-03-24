@@ -1,1 +1,6 @@
 
+ Day 8: Event Manager Web Page & JavaScript Interview Concepts  
+
+Today, worked on:  
+- Building an Event Manager Web Page using HTML, CSS, and JavaScript.  
+- JavaScript Interview Concepts.  
