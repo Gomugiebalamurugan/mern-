@@ -1,0 +1,1 @@
+this is a synchornous write methodthis is a synchornous write method  this is a synchornous append method method
