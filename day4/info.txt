@@ -1,1 +1,8 @@
+# Day 4: User Management - Add, Update, and Delete User Details  
+
+Today, worked on:  
+- Creating a form using HTML & CSS to collect user details.  
+- Handling form data using Node.js & Express.  
+- Performing Create, Read, Update, Delete on user data.  
+
 
