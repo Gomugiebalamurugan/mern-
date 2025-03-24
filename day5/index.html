@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a95ec;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 50%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333;
+            text-align: center;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ac9b9b;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            width: 50%;
+            padding: 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>mile to kilo meter converter</h1>
+        <form action="/covert" method="get">
+            <input type="text" name="kilo" placeholder="Enter meter">
+            <input type="submit" name="submit" value="Convert">
+        </form>
+    </div>
+    <div class="container">
+        <h1>kilo to mile meter converter</h1>
+        <form action="/convert" method="get">
+            <input type="text" name="mile" placeholder="Enter meter">
+            <input type="submit" name="submit" value="Convert">
+        </form>
+    </div>
+</body>
+</html>
