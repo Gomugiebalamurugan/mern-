@@ -1,1 +1,8 @@
-
+# Day 6: React Basics & UI Components  
+ 
+Today, worked on:  
+- Understanding React basics.  
+- Creating functional and class components.
+- Using hooks like `useState` to manage state.
+- Building and styling UI components.
+- learnt about vite 
